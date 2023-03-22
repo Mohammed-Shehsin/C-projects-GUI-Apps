@@ -1,0 +1,53 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Label1: TLabel
+    Position.X = 64.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 89.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'CHECK LIST'
+    TabOrder = 0
+  end
+  object TextListBox: TListBox
+    Position.X = 48.000000000000000000
+    Position.Y = 152.000000000000000000
+    Size.Width = 353.000000000000000000
+    Size.Height = 241.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    DisableFocusEffect = True
+    DefaultItemStyles.ItemStyle = ''
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    Viewport.Width = 349.000000000000000000
+    Viewport.Height = 237.000000000000000000
+  end
+  object AddButton: TButton
+    Position.X = 376.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 137.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'ADD'
+    OnClick = AddButtonClick
+  end
+  object TextEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Position.X = 56.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 249.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
