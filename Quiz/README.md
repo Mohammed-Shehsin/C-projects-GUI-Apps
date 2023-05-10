@@ -1,6 +1,6 @@
-# Quiz Game APP
+# 🙋‍♂️ Quiz Game APP
 
-## C Project GUI Apps 
+## 💻 C Project GUI Apps 
 
 This is a **C++ code for a quiz program** that asks questions with multiple choices and checks if the user's answer is correct. Here is an overview of how the code works:
 
@@ -21,13 +21,13 @@ If the selected answer is correct, the program increments the points variable an
 The program then retrieves the next question from the queue and displays it on the screen, or if the queue is empty, it disables the "Confirm" button and displays **"THE END"** message.
 
  
-### The video of the QUiz APP :
+### 📺 The video of the QUiz APP :
 
 
 [![Alt Text](https://img.youtube.com/vi/qEux5o_IemU/0.jpg)](https://www.youtube.com/watch?v=qEux5o_IemU)
 
-#### YouTube link : https://www.youtube.com/watch?v=qEux5o_IemU
+#### 🔗 YouTube link : https://www.youtube.com/watch?v=qEux5o_IemU
 
 Subscribe and Link the Channel.
       
-Author : *Mohammed Shehsin Thamarachalil Abdulresak*
+🧑 Author : *Mohammed Shehsin Thamarachalil Abdulresak*
