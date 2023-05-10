@@ -1,11 +1,11 @@
-# Login And Register 
+# 📝 Login And Register 
 
-## GUI Application using C++ and RAD Studio
+## 💻 GUI Application using C++ and RAD Studio
 
 
 **It have 3 Forms : Main Form , Login Form ,Register Form **
 
-## Main Form :
+## 🖥️ Main Form :
 
 In the main form, there are **two buttons**, one for navigation to the `login form` and one for navigation to the `registration form`.
 
@@ -15,7 +15,7 @@ In the `registration form`, the user is prompted to enter their **name, age, use
 
 
 
-### Login Form:
+### 🔏 Login Form:
 
 **This code is an implementation of a login form in C++ using the FireMonkey (FMX) framework.**
 
@@ -29,7 +29,7 @@ Inside the `LoginButtonClick` method, the code loops through each line of the fi
  
  
  
- ## Register Form :
+ ## 📜 Register Form :
  
  This code is for a simple registration form that saves user data to a text file when the **"Save"** button is clicked.
 
@@ -41,13 +41,13 @@ The data is then written to the file in comma-separated format using the `<< ope
 
 
 
-### The video of the Login and Register Application :
+### 📺 The video of the Login and Register Application :
 
 
 [![Alt Text](https://img.youtube.com/vi/L6OZNIUz-T0/0.jpg)](https://www.youtube.com/watch?v=L6OZNIUz-T0)
 
-#### YouTube link : https://www.youtube.com/watch?v=L6OZNIUz-T0.
+#### 🔗 YouTube link : https://www.youtube.com/watch?v=L6OZNIUz-T0.
 
 Subscribe and Link the Channel.
       
-Author : *Mohammed Shehsin Thamarachalil Abdulresak*
+🧑 Author : *Mohammed Shehsin Thamarachalil Abdulresak*
