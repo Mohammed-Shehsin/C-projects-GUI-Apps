@@ -1,6 +1,6 @@
-# Checklist APP
+# ☑️ Checklist APP
 
-## APP in GUI and using C++ 
+## ℹ️ APP in GUI and using C++ 
 
 This code is for a checklist application where the user can add items to a list and then check them off as they complete them.
 
@@ -14,13 +14,13 @@ The `TextListBoxItemClick()` function is called when the user clicks on an item 
 
 The code is written in **C++ and uses the FireMonkey framework, which is used to build cross-platform applications**.
 
-### The video of the APP :
+### 📺 The video of the APP :
 
 
 [![Alt Text](https://img.youtube.com/vi/HJEq-V_4liY/0.jpg)](https://www.youtube.com/watch?v=HJEq-V_4liY)
 
-#### YouTube link : https://www.youtube.com/watch?v=HJEq-V_4liY.
+#### 🔗 YouTube link : https://www.youtube.com/watch?v=HJEq-V_4liY.
 
 Subscribe and Link the Channel.
       
-Author : *Mohammed Shehsin Thamarachalil Abdulresak*
+🧑 Author : *Mohammed Shehsin Thamarachalil Abdulresak*
